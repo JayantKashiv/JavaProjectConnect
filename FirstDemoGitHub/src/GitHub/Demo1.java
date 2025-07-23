@@ -10,6 +10,6 @@ public class Demo1 {
 			    // add two numbers
 			// add three numbers
 			    int sum = first + second + third;
-			    System.out.println(first + " + " + second " + " + third +" = "  + sum);
+			    System.out.println(first + " + " + second + " + " + third + " = "  + sum);
 	}
 }
